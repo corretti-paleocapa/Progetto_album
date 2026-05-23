@@ -1,0 +1,15 @@
+Album n°1
+ID: 1006|Titolo: mauro|Artista/band: gg|Genere: rock|Anno: 2009|Numero tracce: 67|Formato: cd|Voto personale: 10
+
+Album n°2
+ID: 1023|Titolo: 3|Artista/band: 3|Genere: 3|Anno: 3|Numero tracce: 3|Formato: 3|Voto personale: 3
+
+Album n°3
+ID: 1034|Titolo: 1|Artista/band: 1|Genere: 1|Anno: 1|Numero tracce: 1|Formato: 1|Voto personale: 9
+
+Album n°4
+ID: 1040|Titolo: 7|Artista/band: 7|Genere: 7|Anno: 7|Numero tracce: 7|Formato: 7|Voto personale: 7
+
+Album n°5
+ID: 1050|Titolo: gg|Artista/band: gg|Genere: gg|Anno: 1956|Numero tracce: 99|Formato: hh|Voto personale: 7
+
